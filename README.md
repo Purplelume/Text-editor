@@ -12,7 +12,7 @@ This project is to build a text editor that runs in the browser, also offline.
 * [Questions](#do-you-have-any-questions)
 
 ## Installation  
-Visit [Live Page](). No installation is required
+Visit [Live Page](https://text-editor-simonemonari-ef42356c5c54.herokuapp.com/). No installation is required
 
 ## License
 https://mit-license.org/
@@ -25,4 +25,4 @@ Download the application from the browser and test it out!
 Don't esitate to reach me at my GitHub [Purplelume](https://github.com/Purplelume) or reach out at my email address: sample.gmail.com
 
 ## Deployed Application
-[Link to the deployed application]()
+[Link to the deployed application](https://text-editor-simonemonari-ef42356c5c54.herokuapp.com/)
